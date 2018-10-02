@@ -10,6 +10,6 @@
   
 ## Papers
 ### Convolutional Neural Networks
-- [Visualizing and Understanding Convolutional Networks](https://arxiv.org/abs/1311.2901)
+- [Visualizing and Understanding Convolutional Networks](https://arxiv.org/abs/1311.2901) by Matthew D Zeiler and Rob Fergus
 ### Recurrent Neural Networks
-- [Visualizing and Understanding Recurrent Networks](https://arxiv.org/abs/1506.02078)
+- [Visualizing and Understanding Recurrent Networks](https://arxiv.org/abs/1506.02078) by Andrej Karpathy, Justin Johnson and Li Fei-Fei
